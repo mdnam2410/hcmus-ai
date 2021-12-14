@@ -1,0 +1,8 @@
+G
+6
+R OR S OR D
+W
+-R
+-S
+-N OR G
+-D OR -W OR N
